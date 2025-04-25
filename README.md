@@ -24,4 +24,11 @@ I'm a passionate **Flutter Developer** focused on building beautiful, high-perfo
   [![Amrish Kushwaha's LinkedIn](https://img.shields.io/badge/Amrish%20Kushwaha-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amrish-kushwaha-62711735a/)
   [![Amrish Kushwaha's Gmail](https://img.shields.io/badge/Amrish%20Kushwaha-Gmail?style=flat&logo=gmail&logoColor=white&color=red&link=mailto:kushwahaamrish003@gmail.com)](mailto:kushwahaamrish003@gmail.com "Connect via Email")
 
-Thanks for stopping by! ⭐ Feel free to check out my repositories and connect with me.
+## 🚀 Key Skills:
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX-Design-blue">
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debugging%20%26%20Troubleshooting-red?logo=bug">
+</p>
