@@ -16,8 +16,6 @@ I'm a passionate **Flutter Developer** focused on building beautiful, high-perfo
 - 🤔 I’m looking for help with:  
   Growing my Flutter network and contributing more to the Flutter open-source community. Also interested in mentorship and best practices in app scalability.
 
-- 💬 Ask me about:  
-  Flutter, Dart, Firebase, mobile design patterns, or anything mobile-dev related! Happy to share what I know or learn together.
 
 - 📫 How to reach me:
   
